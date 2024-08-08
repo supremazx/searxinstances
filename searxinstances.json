@@ -1,0 +1,138 @@
+{
+  "http://lbmegc3rjnekmdxuisynqdc7y3m2tgyq7gj257ooddaobxqjw36bdayd.onion": {},
+  "https://baresearch.org": {},
+  "https://copp.gg": {},
+  "https://darmarit.org/searx": {},
+  "https://etsi.me": {},
+  "https://fairsuch.net": {},
+  "https://nogoo.me": {},
+  "https://northboot.xyz": {
+    "additional_urls": {
+      "http://4n53nafyi77iplnbrpmxnp3x4exbswwxigujaxy3b37fvr7bvlopxeyd.onion": "Hidden Service"
+    }
+  },
+  "https://nyc1.sx.ggtyler.dev": {},
+  "https://ooglester.com": {},
+  "https://opnxng.com": {},
+  "https://paulgo.io": {},
+  "https://priv.au": {},
+  "https://s.mble.dk": {},
+  "https://s.trung.fun": {},
+  "https://search.blitzw.in": {},
+  "https://search.bus-hit.me": {},
+  "https://search.charliewhiskey.net": {},
+  "https://search.citw.lgbt": {},
+  "https://search.darkness.services": {},
+  "https://search.datura.network": {
+    "additional_urls": {
+      "http://search.daturab6drmkhyeia4ch5gvfc2f3wgo6bhjrv3pz6n7kxmvoznlkq4yd.onion": "Hidden Service"
+    }
+  },
+  "https://search.dotone.nl": {},
+  "https://search.einfachzocken.eu": {},
+  "https://search.gcomm.ch": {},
+  "https://search.hbubli.cc": {},
+  "https://search.im-in.space": {},
+  "https://search.incogniweb.net": {},
+  "https://search.indst.eu": {
+    "additional_urls": {
+      "http://whereissky27lxfdrs7ct7a5ievor3tl67qi77rv5luga7wod5jf2mad.onion": "Hidden Service"
+    }
+  },
+  "https://search.inetol.net": {
+    "additional_urls": {
+      "http://searchpie7fejn4wctzm6fgm6oz5vnziltfzzuec6b4qmkr3wrqaoqqd.onion": "Hidden Service"
+    }
+  },
+  "https://search.leptons.xyz": {},
+  "https://search.mdosch.de": {},
+  "https://search.nadeko.net": {
+    "additional_urls": {
+      "http://search.nadekonfkhwlxwwk4ycbvq42zvcjmvo5iakl4tajojjwxd4a5dcetuyd.onion": "Hidden Service"
+    }
+  },
+  "https://search.nerdvpn.de": {
+    "additional_urls": {
+      "http://nerdvpn4iln4didgzcw7pgvjv4p3pwn3e3dq732oxwidfv6bacnyuvad.onion": "Hidden Service"
+    }
+  },
+  "https://search.ngn.tf": {},
+  "https://search.ononoki.org": {},
+  "https://search.privacyredirect.com": {},
+  "https://search.projectsegfau.lt": {
+    "additional_urls": {
+      "http://search.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion": "Hidden Service"
+    }
+  },
+  "https://search.rhscz.eu": {},
+  "https://search.rowie.at": {},
+  "https://search.sapti.me": {},
+  "https://search.smnz.de": {},
+  "https://search.tommy-tran.com": {},
+  "https://searx.aleteoryx.me": {},
+  "https://searx.ankha.ac": {},
+  "https://searx.be": {},
+  "https://searx.catfluori.de": {},
+  "https://searx.colbster937.dev": {},
+  "https://searx.daetalytica.io": {},
+  "https://searx.dresden.network": {},
+  "https://searx.electroncash.de": {},
+  "https://searx.foss.family": {
+    "additional_urls": {
+      "http://searxwcao6avdvuaspdrjheiwrcey2zvxq3dj52gruo3oaqcr2ddlyqd.onion": "Hidden Service"
+    }
+  },
+  "https://searx.hu": {},
+  "https://searx.juancord.xyz": {},
+  "https://searx.lunar.icu": {},
+  "https://searx.mv-software.de": {},
+  "https://searx.mxchange.org": {},
+  "https://searx.namejeff.xyz": {},
+  "https://searx.nobulart.com": {
+    "additional_urls": {
+      "http://tnd4del36xwmip5z3agrgfmga7pora3ddyzh7t5lng2u2wgjbpxbmcyd.onion": "Hidden Service"
+    }
+  },
+  "https://searx.numeriquement.fr": {},
+  "https://searx.oakleycord.dev": {},
+  "https://searx.ox2.fr": {},
+  "https://searx.perennialte.ch": {},
+  "https://searx.rhscz.eu": {},
+  "https://searx.ro": {},
+  "https://searx.sev.monster": {},
+  "https://searx.thefloatinglab.world": {},
+  "https://searx.tiekoetter.com": {
+    "additional_urls": {
+      "http://searx3aolosaf3urwnhpynlhuokqsgz47si4pzz5hvb7uuzyjncl2tid.onion": "Hidden Service"
+    }
+  },
+  "https://searx.tuxcloud.net": {},
+  "https://searx.work": {},
+  "https://searx.zhenyapav.com": {},
+  "https://searxng.brihx.fr": {},
+  "https://searxng.ch": {},
+  "https://searxng.hweeren.com": {},
+  "https://searxng.online": {},
+  "https://searxng.shreven.org": {},
+  "https://searxng.site": {},
+  "https://skyrimhater.com": {},
+  "https://sx.ca.zorby.top": {
+    "additional_urls": {
+      "http://vwf4ktksblwk5oiitj73mh4dqtpiv7b7wy7i3o6dhxubuon5xwtq5vqd.onion": "Hidden Service"
+    }
+  },
+  "https://sx.catgirl.cloud": {},
+  "https://sx.thatxtreme.dev": {
+    "additional_urls": {
+      "http://xtsearxafzi6c3gtant62idszhoenkmprc24vxn5m5fnomxtpkaffjad.onion": "Hidden Service"
+    }
+  },
+  "https://sx.zorby.top": {
+    "additional_urls": {
+      "http://3cvltarlpeanooabgva7tbmtlzznyr3ltsndvwtngwuzqtvwyllaz4qd.onion": "Hidden Service"
+    }
+  },
+  "https://www.gruble.de": {},
+  "https://www.jabber-germany.de/searx": {},
+  "https://xo.wtf": {}
+}
